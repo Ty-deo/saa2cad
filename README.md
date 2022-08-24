@@ -1,4 +1,4 @@
-Developed to quickly trim the SAA tool data output into a format that can be read with AutoCAD. Needed to repeat this operation for many columns and having the dialog box and simple text manipulation was a good job for a computer XD
+Developed to quickly trim the SAA tool data output into a format that can be read with AutoCAD. Needed to repeat this operation for many columns and having the dialog box and simple text manipulation was a good job for a computer!
 
 Tyler de Jonge, Keller foundations, 2020/2/25
 
